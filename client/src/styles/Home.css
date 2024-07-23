@@ -1,0 +1,43 @@
+.home {
+    text-align: center;
+    padding: 20px;
+}
+
+.home-title {
+    font-family: 'Rubik Mono One', monospace;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 20px 0;
+    color: black;
+}
+
+.desperado-video {
+    width: 50%;
+    height: 70%;
+    max-height: 500px;
+    object-fit: cover;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+}
+
+.enter-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0 20px;
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+    font-size: 1.2rem;
+    font-family: 'Forum', serif;
+
+}
+
+.enter-link:hover {
+    text-decoration: none;
+}
+
+.home-quote p {
+    font-family: 'Forum', serif;
+    font-style: italic;
+    padding: 20px;
+}

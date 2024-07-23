@@ -1,0 +1,65 @@
+.check-header {
+    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    background-color: #fff;
+}
+
+.brand {
+    display: flex;
+    align-items: baseline;
+}
+
+.BigP {
+    font-size: 2.5rem;
+
+}
+
+.Subtitle {
+    font-size: 1.0rem;
+}
+
+.cart-link {
+    font-family: 'Bodoni Moda', serif;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.cart-link a {
+    text-decoration: none;
+}
+
+.cart-link a:hover {
+    text-decoration: underline;
+}
+
+.order-box {
+    margin: 0;
+    width: 100%;
+    padding: 10px;
+    border-radius: 1px;
+    border-color: black;
+    background-color: rgb(204, 204, 204);
+    text-align: center;
+    
+
+}
+
+.order-summary {
+    position: relative;
+    right: 25%;
+    align-items: left;
+    font-size: 15px;
+    font-style: bold;
+}
+
+.order-total {
+    position: relative;
+    left: 25%;
+
+}

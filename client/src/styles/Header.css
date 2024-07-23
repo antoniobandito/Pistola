@@ -1,0 +1,26 @@
+.check-header {
+    position: relative;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    background-color: #fff;
+    text-align: center;
+}
+.brand {
+    justify-content: center;
+    display: flex;
+    align-items: baseline;
+}
+
+.BigP {
+    font-size: 2.5rem;
+
+}
+
+.Subtitle {
+    font-size: 1.0rem;
+}
